@@ -1,6 +1,6 @@
 ## Modal & Menu Slider
 
-Simple landing page with sliding menu and modal
+[Demo](https://alvar91.github.io/modal-menu-slider-html-css-js/) Simple landing page with sliding menu and modal
 
 ## Project Specifications
 
